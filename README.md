@@ -1,6 +1,6 @@
 # Nominatim server - Israel data
 
-And OpenStreetMap Nominatim server, preloaded with Israel's data.
+An OpenStreetMap Nominatim server, preloaded with Israel's data.
 
 Docker image is updated weekly with up-to-date OSM data.
 
